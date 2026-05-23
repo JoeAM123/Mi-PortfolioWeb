@@ -1,0 +1,14 @@
+# Archivos de configuración de VS Code (evita que se suban tus preferencias)
+.vscode/
+
+# Archivos de sistema (creados automáticamente por Windows o Mac)
+.DS_Store
+Thumbs.db
+
+# Carpetas de dependencias (por si en el futuro usas frameworks)
+node_modules/
+dist/
+build/
+
+# Archivos de log
+*.log
